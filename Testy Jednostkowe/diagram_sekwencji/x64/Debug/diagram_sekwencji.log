@@ -1,0 +1,3 @@
+﻿  diagram_sekwencji.cpp
+C:\Users\kamil\source\repos\diagram_sekwencji\diagram_sekwencji\diagram_sekwencji.cpp(22,40): warning C4305: "argument": obcięcie z "double" do "float"
+  diagram_sekwencji.vcxproj -> C:\Users\kamil\source\repos\diagram_sekwencji\x64\Debug\diagram_sekwencji.exe
