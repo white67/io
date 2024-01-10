@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\kamil\source\repos\diagram_sekwencji\UnitTest1\UnitTest1.cpp(34,1): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\kamil\source\repos\diagram_sekwencji\UnitTest1\UnitTest1.cpp(45,1): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\kamil\source\repos\diagram_sekwencji\UnitTest1\UnitTest1.cpp(56,1): warning C4305: "argument": obcięcie z "double" do "float"
+     Trwa tworzenie biblioteki C:\Users\kamil\source\repos\diagram_sekwencji\x64\Debug\UnitTest1.lib i obiektu C:\Users\kamil\source\repos\diagram_sekwencji\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\kamil\source\repos\diagram_sekwencji\x64\Debug\UnitTest1.dll
